@@ -2,7 +2,7 @@
 - 👀 I’m interested in sports
 - 🌱 I’m currently learning management
 - 💞️ I’m looking to collaborate on new projects 
-- 📫 How to reach me on instagramn
+- 📫 IG : _elyess
 - 🏀 I'm a basketball player 
 <!---
 ElyessR/ElyessR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
